@@ -37,12 +37,13 @@ form a{
 header{
 	background-image: url('../img/bg.png');
 	background-color: #3b5998;
-	height:83px;
+
 }
 
 .center-cont{
 	width: 73%;
 	margin: 0 auto;
+	padding: 0 0 6.9em 0;
 }
 
 .logo{
